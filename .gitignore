@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Output files
+*.json
+*_pose.json
+*_visualization.jpg
+*_visualization.png
+
+# Test images (if you want to exclude them)
+# *.jpg
+# *.png
+
+# Model weights (if downloading pretrained models)
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MediaPipe cache
+.mediapipe/
