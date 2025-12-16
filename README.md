@@ -267,9 +267,3 @@ For issues related to:
 - **This script**: Check that dependencies are correctly installed
 - **MediaPipe**: See [MediaPipe documentation](https://google.github.io/mediapipe/)
 - **Hand gestures in images**: Refer to the gesture reference table in your research materials
-
----
-
-**Author**: Generated for prosthetic/robotic arm control research  
-**Date**: December 2025  
-**Model**: Pretrained MediaPipe Hands (no training required)
