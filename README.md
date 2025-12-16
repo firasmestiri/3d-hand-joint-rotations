@@ -34,7 +34,7 @@ A minimal working prototype that takes a single RGB image of a hand gesture and 
 ## Installation
 
 ### 1. Prerequisites
-- Python 3.8+
+- Recommended : Python 3.8+, can work with previous versions
 - pip
 - Windows, macOS, or Linux
 
